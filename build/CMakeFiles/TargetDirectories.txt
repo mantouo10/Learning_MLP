@@ -1,2 +1,0 @@
-/home/usrp/EasyML-master/build/src/easyml/CMakeFiles/EasyML.dir
-/home/usrp/EasyML-master/build/examples/CMakeFiles/handwriting_recognize.bin.dir
