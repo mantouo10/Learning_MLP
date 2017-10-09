@@ -1,4 +1,4 @@
-# This project is copy from https://github.com/ronnyyoung/EasyML.
+# This project copy from https://github.com/ronnyyoung/EasyML.
 
 I just make some notes(chinese).
 
@@ -8,9 +8,9 @@ I just make some notes(chinese).
 This project is very easy, but it is very hard when you try to re-write it.
 # 2.So, I hope you can establish the project by yourself.
 
-# 3.http://blog.csdn.net/taigw/article/details/50612963 shows the back propagation(BP) algorithm. If you forgot the BP theory, you can take a look.
+# 3.http://blog.csdn.net/taigw/article/details/50612963 shows the back propagation(BP) algorithm. If you forget the BP theory, you can take a look.
 
-I have change the building mode to "Debug". if you want to debug the project, you just need to set stop-points.
+I have changed the building mode to "Debug". if you want to debug the project, you just need to set stop-points.
 
 
 
