@@ -1,0 +1,2 @@
+/usr/bin/ar cr libEasyML.a  CMakeFiles/EasyML.dir/util/util.cpp.o CMakeFiles/EasyML.dir/util/mnist_helper.cpp.o CMakeFiles/EasyML.dir/neural_network/input_layer.cpp.o CMakeFiles/EasyML.dir/neural_network/fully_connected_layer.cpp.o CMakeFiles/EasyML.dir/neural_network/net.cpp.o CMakeFiles/EasyML.dir/neural_network/output_layer.cpp.o
+/usr/bin/ranlib libEasyML.a
