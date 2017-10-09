@@ -1,5 +1,23 @@
+# This project is copy from https://github.com/ronnyyoung/EasyML.
+
+I just make some notes(chinese).
+
+# 1.Recomend: Using the kdevelop IDE.
+(You can build the project by cmake/make, just like the command line in the shell. It is different with VS in windows)
+
+This project is very easy, but it is very hard when you try to re-write it.
+# 2.So, I hope you can establish the project by yourself.
+
+# 3.http://blog.csdn.net/taigw/article/details/50612963 shows the back propagation(BP) algorithm. If you forgot the BP theory, you can take a look.
+
+I have change the building mode to "Debug". if you want to debug the project, you just need to set stop-points.
+
+
+
+
 # EasyML
 An easy reading implementation of popular machine learning algorithm  with cpp for the beginner.
+
 
 # Quick Start
 
