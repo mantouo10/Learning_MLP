@@ -12,6 +12,8 @@ This project is very easy, but it is very hard when you try to re-write it.
 
 I have changed the building mode to "Debug". if you want to debug the project, you just need to set stop-points.
 
+The opencv is need for this project. If you never install opencv, you can find the install methods in http://www.cnblogs.com/TooyLee/p/6055330.html. 
+
 
 
 
